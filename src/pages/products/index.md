@@ -97,10 +97,5 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
-    - description: somthing
-      items:
-        - something else
-      plan: tiny
-      price: 20$
 ---
 
